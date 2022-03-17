@@ -1,4 +1,3 @@
-//javascript for weather
 // display current day and time
 let currentDate = document.querySelector("#current-date");
 let now = new Date();
