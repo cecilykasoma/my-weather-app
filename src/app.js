@@ -1,4 +1,5 @@
 //javascript for weather
+//testing github branches
 // display current day and time
 let currentDate = document.querySelector("#current-date");
 let now = new Date();
