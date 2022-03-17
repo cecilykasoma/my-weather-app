@@ -1,3 +1,4 @@
+//javascript for weather
 // display current day and time
 let currentDate = document.querySelector("#current-date");
 let now = new Date();
@@ -91,7 +92,6 @@ function showWeather(response) {
 }
 
 // current location weather details
-
 
 function showPosition(position) {
   let latitude = position.coords.latitude;
